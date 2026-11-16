@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PhyoThiha-Aung
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning 3D Animation with JS
+- 👀 I’m software engineer with over three years of experience
+- 🌱 I’m currently learning 3D Animation with ThreeJS
 - 📫 phyothihaaung.dev@gmail.com
